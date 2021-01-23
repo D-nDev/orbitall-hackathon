@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.orbitallcorp</groupId>
-	<artifactId>customers</artifactId>
+	<artifactId>cards</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customers</name>
-	<description>Demo project for Spring Boot</description>
+	<name>cards</name>
+	<description>Cards project - orbitall</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
